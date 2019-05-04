@@ -14,4 +14,5 @@ One of the things that ReactDOM does is allows you to write
 HTML-like syntax, and those HTML tags will be rendered to the page. 
 So if we write the following syntax above.
 
+See also, html.html file to understand the difference.
 */
